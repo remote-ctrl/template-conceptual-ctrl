@@ -1,0 +1,3 @@
+[submodule "event-player"]
+	path = event-player
+	url = git@github.com:remote-ctrl/event-player.git
