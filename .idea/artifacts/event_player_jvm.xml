@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="event-player-jvm">
+    <output-path>$PROJECT_DIR$/event-player/build/libs</output-path>
+    <root id="archive" name="event-player-jvm.jar" />
+  </artifact>
+</component>

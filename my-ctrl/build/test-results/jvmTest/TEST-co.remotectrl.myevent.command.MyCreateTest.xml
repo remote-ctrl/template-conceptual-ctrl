@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="co.remotectrl.myevent.command.MyCreateTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-09-05T12:49:05" hostname="Steves-MacBook-Air.local" time="0.002">
+  <properties/>
+  <testcase name="should_try_to_validate_Change_Command_command_input[jvm]" classname="co.remotectrl.myevent.command.MyCreateTest" time="0.001"/>
+  <testcase name="should_produce_Changed_Event_on_successful_Commit_Command[jvm]" classname="co.remotectrl.myevent.command.MyCreateTest" time="0.0"/>
+  <testcase name="should_apply_Changed_Event_to_MyAggregate[jvm]" classname="co.remotectrl.myevent.command.MyCreateTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
